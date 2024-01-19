@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Unraveling the secrets of coding one keystroke at a time!</h3>
 
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **Matlab**
+
+- 📫 How to reach me **hiaditya14@gmail.com**
+
+- ⚡ Fun fact about me **I like my coffee like I like my code—dark and full of bugs.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
